@@ -3,7 +3,7 @@
 API for Gaffer graph store.
 
 # Install
-`pip install git+git://github.com/cybermaggedon/pygaffer`
+`pip3 install git+git://github.com/cybermaggedon/pygaffer`
 
 # Example
 
